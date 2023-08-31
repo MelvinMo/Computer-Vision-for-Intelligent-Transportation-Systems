@@ -1,4 +1,5 @@
-# Computer-vision-for-intelligent-transportation-systems
+# Computer-Vision-for-Intelligent-Transportation-Systems
+
 During one of my internships, which was at a private computer vision company, I undertook a project focused on developing and assessing computer vision techniques for automated quality control of manufactured parts in the field of intelligent transportation systems. The following is a concise summary of the key learnings from this project, which I will now provide in English:
 
 I experimented with several machine learning algorithms on image data. The main techniques I applied were PCA for dimensionality reduction, SVM for classification, deep learning for image feature extraction, and shape context descriptors for shape matching. Key outcomes and results from my work are highlighted below.
